@@ -17,7 +17,7 @@
 
 ## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,postman,github,vscode," />
 </p>
 
 ### 🌐 Frontend
