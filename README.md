@@ -64,12 +64,6 @@
 
 ---
 
-<p align="center">
-<h1 align="center">🔥 Built with passion by Muhammad Awais 🔥</h1>
-</p>               
-
----
-
 ## 📌 Featured Projects
 
 > ⚠️ Replace links with your real GitHub repositories
@@ -105,5 +99,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisCoder01&theme=tokyonight"/>
 </p>
+
+---
+
+<p align="center">
+<h1 align="center">🔥 Built with passion by Muhammad Awais 🔥</h1>
+</p>               
 
 ---
