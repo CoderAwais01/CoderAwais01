@@ -98,14 +98,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisCoder01&theme=tokyonight" />
 </p>
-
-<img src="https://github.com/AwaisCoder01/AwaisCoder01/blob/output/github-contribution-grid-snake-dark.svg" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AwaisCoder01&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AwaisCoder01&theme=tokyonight" />
-</p>
+
 
 ---
 
@@ -114,6 +110,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AwaisCoder01&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AwaisCoder01&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 <p align="center">
