@@ -2,6 +2,8 @@
 
 <h2 align="center">🚀 MERN Stack Developer | 🎓 BSCS Student | 💡 Problem Solver</h2>
 
+---
+
 ## 🚀😎 About Me
 
 - 🎓 BSCS Student @ Virtual University (VU)  
