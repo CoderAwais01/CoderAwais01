@@ -75,7 +75,7 @@
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisCoder01&theme=tokyonight"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AwaisCoder01)](https://git.io/streak-stats)
 </p>
 
 ---
