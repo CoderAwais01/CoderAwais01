@@ -88,6 +88,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AwaisCoder01&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanCoder66&theme=tokyonight" />
+</p>
 
 ---
 
