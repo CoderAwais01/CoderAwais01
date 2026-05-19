@@ -22,7 +22,7 @@
 
 ### 🌐 Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,mongodb,git,postman,github,vscode," />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react," />
 </p>
 
 ### ⚙️ Backend
@@ -31,13 +31,14 @@
 </p>
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb," />
+</p>
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,postman,github,vscode," />
+</p>
 
 ---
 
