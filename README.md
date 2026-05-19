@@ -17,12 +17,12 @@
 
 ## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,git,postman,github,vscode,supabase,firebase,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,supabase,firebase,nextjs,nodejs,express,mongodb,git,postman,github,vscode," />
 </p>
 
 ### 🌐 Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react," />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,supabase,firebase," />
 </p>
 
 ### ⚙️ Backend
