@@ -22,12 +22,13 @@
 
 ### 🌐 Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,git,postman,github,vscode," />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,mongodb,git,postman,github,vscode," />
 </p>
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express," />
+</p>
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
