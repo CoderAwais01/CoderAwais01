@@ -98,7 +98,7 @@
 
 ## 💡 Motto
 
-> "Always learning. Always building. Always improving."
+> ""Every single day, I strive to become better than yesterday’s version of myself.""
 
 ---
 
