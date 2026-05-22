@@ -30,7 +30,7 @@
 
 ## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,supabase,firebase,mongodb,git,postman,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,supabase,firebase,mongodb,git,postman,github,vscode,vercel," />
 </p>
 
 ### 🌐 Frontend
@@ -50,7 +50,7 @@
 
 ### 🔧 Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,postman,github,vscode," />
+<img src="https://skillicons.dev/icons?i=git,postman,github,vscode,vercel," />
 </p>
 
 ---
