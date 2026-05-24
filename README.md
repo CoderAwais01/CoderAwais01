@@ -123,7 +123,7 @@
 ---
 
 <p align="center">
-<h1 align="center">🔥♥️Built with love and passion by Muhammad Awais ♥️🔥</h1>
+<h1 align="center">🔥 Built with love and passion by Muhammad Awais 🔥</h1>
 </p>               
 
 ---
