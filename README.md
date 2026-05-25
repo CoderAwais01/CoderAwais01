@@ -86,7 +86,7 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderAwais01&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AwaisCoder01&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderAwais01&theme=tokyonight" />
 </p>
 
 <p align="center">
