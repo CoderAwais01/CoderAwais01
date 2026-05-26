@@ -22,15 +22,12 @@
   <a href="https://www.linkedin.com/in/username/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/CoderAwais01" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://web.facebook.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/username/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-</p>
-<a href="https://www.facebook.com/share/18aQZJ3hLC/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
-</a>
 <a href="https://web.facebook.com/share/18aQZJ3hLC/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/username/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+</p>
+
 
 ---
 
