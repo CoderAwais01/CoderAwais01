@@ -88,9 +88,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderAwais01&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderAwais01&theme=tokyonight" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoderAwais01&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=CoderAwais01&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" 
+    alt="GitHub Trophies" 
+  />
 </p>
 
   <p align="center">
