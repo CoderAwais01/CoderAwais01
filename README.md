@@ -126,7 +126,7 @@
 ---
 
 <p align="center">
-<h1 align="center">🔥 Built with passion by Muhammad hahaha 😂 Awais 🔥</h1>
+<h1 align="center">🔥 Built with passion by Muhammad Awais 🔥</h1>
 </p>               
 
 ---
