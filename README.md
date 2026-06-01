@@ -11,7 +11,7 @@
 - 🌱 Currently learning Advanced Backend Architecture & Deployment  
 - 🔥 Focused on building real-world full-stack projects  
 - 🎯 Goal: Become a professional Full-Stack Software Engineer  
-- ⚡ Fun fact: I learn best by breaking things and fixing them while building real-world projects. love to code .
+- ⚡ Fun fact: I learn best by breaking things and fixing them while building real-world projects.love to code .
   
 ---
 
