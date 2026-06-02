@@ -83,6 +83,39 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderAwais01&theme=tokyonight"
+    height="180em"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderAwais01&theme=tokyonight"
+    height="180em"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=CoderAwais01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderAwais01&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CoderAwais01&theme=tokyo-night"
+  />
+</p>
+
+---
 
 ## 📈 GitHub Streak
 
